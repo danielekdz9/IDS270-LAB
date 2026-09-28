@@ -1,0 +1,2 @@
+Landing pages under test: control_hero_v1 (the current hero section, control) vs new_hero_v2 (the new hero section, variant B).
+Conversion: a visitor counts as converted when Completed_Purchase is yes (Yes/yes/Y), meaning they finished buying; adding to cart alone does not count.
